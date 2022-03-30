@@ -29,13 +29,14 @@ testing of a bioinspired boxfish robot.
 
 <!-- VIDEO -->
 ## Video
+
 [Video of robot](https://photos.app.goo.gl/MLjWioYGVvANBCLP8)
 
 <!-- CONTACT -->
 ## Contact
-[lvuilleu](https://github.com/lvuilleu) <br>
 Biselx Michael - michael.biselx@epfl.ch <br>
 Samuel Bumann - samuel.bumann@epfl.ch <br>
+[lvuilleu](https://github.com/lvuilleu) <br>
 
 <br>
 Project Link: [https://github.com/sdbumann/FishRobot](https://github.com/sdbumann/FishRobot)
