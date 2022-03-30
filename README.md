@@ -7,6 +7,7 @@
 
 * [About the Project](#about-the-project)
 * [Folder Structure](#folder-structure)
+* [Video](#video)
 * [Contact](#contact)
 
 <!-- ABOUT THE PROJECT -->
@@ -26,6 +27,9 @@ testing of a bioinspired boxfish robot.
 | robot     | C files for fish robot                                                         |
 
 
+<!-- VIDEO -->
+## Video
+[Video of robot](https://photos.app.goo.gl/MLjWioYGVvANBCLP8)
 
 <!-- CONTACT -->
 ## Contact
