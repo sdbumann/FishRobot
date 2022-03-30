@@ -39,4 +39,4 @@ Samuel Bumann - samuel.bumann@epfl.ch <br>
 [lvuilleu](https://github.com/lvuilleu) <br>
 
 <br>
-Project Link: [https://github.com/sdbumann/FishRobot](https://github.com/sdbumann/FishRobot)
+Project Link: https://github.com/sdbumann/FishRobot
