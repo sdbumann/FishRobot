@@ -1,4 +1,4 @@
-# Fish Robot
+# Fish Robot Practical
 ## for the EPFL course Robotics practicals [MICRO-453](https://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1658215799&ww_x_anneeAcad=2020-2021&ww_i_section=2373753419)
 
 
