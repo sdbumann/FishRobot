@@ -29,8 +29,7 @@ testing of a bioinspired boxfish robot.
 
 <!-- VIDEO -->
 ## Video
-
-[Video of robot](https://photos.app.goo.gl/MLjWioYGVvANBCLP8)
+https://user-images.githubusercontent.com/58890541/176934872-08bb3077-e614-435b-89d9-f4ad2e183e46.mp4
 
 <!-- CONTACT -->
 ## Contact
